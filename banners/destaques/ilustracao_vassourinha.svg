@@ -1,0 +1,119 @@
+<svg viewBox="0 0 560 560" width="560" height="560" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path id="lf" d="M0,0 C4,-9 4,-27 0,-38 C-4,-27 -4,-9 0,0Z"></path>
+<path id="hx" d="M0,-22 L19,-11 L19,11 L0,22 L-19,11 L-19,-11Z"></path>
+<path id="dr" d="M0,-16 C6,-5 10,2 10,7 A10,10 0 1 1 -10,7 C-10,2 -6,-5 0,-16Z"></path>
+<g id="fl">
+<path d="M0,14 L0,4 M0,14 L-9,6 M0,14 L10,7 M0,14 L5,-4 M0,14 L-6,-3" stroke="#6F7D4B" stroke-width="1.6" fill="none"></path>
+<circle cx="0" cy="2" r="7" fill="#F8F4EC" stroke="#D9CBA8" stroke-width="1"></circle>
+<circle cx="11" cy="5" r="6" fill="#F8F4EC" stroke="#D9CBA8" stroke-width="1"></circle>
+<circle cx="-11" cy="4" r="6" fill="#F8F4EC" stroke="#D9CBA8" stroke-width="1"></circle>
+<circle cx="6" cy="-7" r="6" fill="#F8F4EC" stroke="#D9CBA8" stroke-width="1"></circle>
+<circle cx="-6" cy="-6" r="5.5" fill="#F8F4EC" stroke="#D9CBA8" stroke-width="1"></circle>
+<circle cx="0" cy="2" r="2.2" fill="#A88A4A"></circle>
+<circle cx="11" cy="5" r="1.8" fill="#A88A4A"></circle>
+<circle cx="-11" cy="4" r="1.8" fill="#A88A4A"></circle>
+<circle cx="6" cy="-7" r="1.8" fill="#A88A4A"></circle>
+<circle cx="-6" cy="-6" r="1.6" fill="#A88A4A"></circle>
+</g>
+</defs>
+
+<circle cx="280" cy="280" r="270" fill="#E8DDC8"></circle>
+<circle cx="280" cy="280" r="256" fill="none" stroke="#A88A4A" stroke-opacity="0.55" stroke-width="1.2"></circle>
+
+<g stroke="#A88A4A" stroke-width="1.4" stroke-opacity="0.6" fill="#A88A4A" fill-opacity="0">
+<use href="#hx" transform="translate(120,430)"></use>
+<use href="#hx" transform="translate(158,430)" fill-opacity="0.22"></use>
+<use href="#hx" transform="translate(101,463)" fill-opacity="0.22"></use>
+<use href="#hx" transform="translate(139,463)"></use>
+<use href="#hx" transform="translate(177,463)" fill-opacity="0.12"></use>
+<use href="#hx" transform="translate(120,496)"></use>
+<use href="#hx" transform="translate(158,496)" fill-opacity="0.3"></use>
+<use href="#hx" transform="translate(196,496)"></use>
+</g>
+
+<g fill="none" stroke="#4F6A3C" stroke-linecap="round">
+<path d="M280,545 C280,440 262,360 300,262 C330,190 362,140 404,88" stroke-width="5"></path>
+<path d="M276,430 C230,400 170,350 130,248" stroke-width="3.2"></path>
+<path d="M292,300 C350,280 420,250 472,188" stroke-width="3.2"></path>
+<path d="M303,258 C270,210 236,160 221,92" stroke-width="3"></path>
+</g>
+
+<g fill="#6F7D4B">
+<use href="#lf" transform="translate(281,500) rotate(-45)"></use>
+<use href="#lf" transform="translate(280,480) rotate(40)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(279,460) rotate(-40)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(276,412) rotate(35)"></use>
+<use href="#lf" transform="translate(275,380) rotate(-35)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(278,360) rotate(45)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(286,322) rotate(-25)"></use>
+<use href="#lf" transform="translate(320,225) rotate(70)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(328,212) rotate(-5)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(340,190) rotate(75)"></use>
+<use href="#lf" transform="translate(352,170) rotate(0)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(362,155) rotate(80)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(376,132) rotate(5)"></use>
+<use href="#lf" transform="translate(386,118) rotate(85)" fill="#4F6A3C"></use>
+
+<use href="#lf" transform="translate(250,412) rotate(-90)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(240,404) rotate(-10)"></use>
+<use href="#lf" transform="translate(222,390) rotate(-85)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(208,378) rotate(-5)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(195,365) rotate(-80)"></use>
+<use href="#lf" transform="translate(182,350) rotate(0)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(150,300) rotate(-75)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(144,285) rotate(10)"></use>
+<use href="#lf" transform="translate(138,268) rotate(-65)" fill="#8A9A55"></use>
+
+<use href="#lf" transform="translate(320,293) rotate(10)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(335,288) rotate(110)"></use>
+<use href="#lf" transform="translate(350,283) rotate(15)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(366,277) rotate(115)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(382,270) rotate(20)"></use>
+<use href="#lf" transform="translate(398,262) rotate(110)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(440,230) rotate(25)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(450,220) rotate(105)"></use>
+<use href="#lf" transform="translate(458,208) rotate(30)" fill="#8A9A55"></use>
+
+<use href="#lf" transform="translate(290,238) rotate(-70)"></use>
+<use href="#lf" transform="translate(281,225) rotate(15)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(272,212) rotate(-65)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(264,199) rotate(20)"></use>
+<use href="#lf" transform="translate(243,160) rotate(-60)" fill="#4F6A3C"></use>
+<use href="#lf" transform="translate(237,146) rotate(20)" fill="#8A9A55"></use>
+<use href="#lf" transform="translate(232,132) rotate(-55)"></use>
+<use href="#lf" transform="translate(226,116) rotate(25)" fill="#4F6A3C"></use>
+</g>
+
+<use href="#fl" transform="translate(128,236)"></use>
+<use href="#fl" transform="translate(166,322) scale(0.85)"></use>
+<use href="#fl" transform="translate(476,178)"></use>
+<use href="#fl" transform="translate(420,246) scale(0.85)"></use>
+<use href="#fl" transform="translate(220,80)"></use>
+<use href="#fl" transform="translate(254,176) scale(0.8)"></use>
+<use href="#fl" transform="translate(406,76)"></use>
+<use href="#fl" transform="translate(348,166) scale(0.85)"></use>
+
+<g fill="#8A9A3B">
+<use href="#dr" transform="translate(234,142) scale(0.6)"></use>
+<use href="#dr" transform="translate(432,240) scale(0.55)"></use>
+<use href="#dr" transform="translate(300,272) scale(0.6)"></use>
+</g>
+<g transform="translate(368,436) scale(2.1)">
+<use href="#dr" fill="#8A9A3B"></use>
+<use href="#dr" fill="#A88A4A" fill-opacity="0.35"></use>
+<path d="M-4,2 C-5,6 -4,10 -1,12" stroke="#F8F4EC" stroke-opacity="0.8" stroke-width="1.6" fill="none" stroke-linecap="round"></path>
+</g>
+<path d="M368,392 L368,404" stroke="#8A9A3B" stroke-width="2" stroke-dasharray="2 5" stroke-linecap="round"></path>
+
+<path d="M492,402 C540,360 500,300 456,318" fill="none" stroke="#A88A4A" stroke-width="2" stroke-dasharray="1 8" stroke-linecap="round"></path>
+<g transform="translate(446,330) rotate(-12)">
+<ellipse cx="-2" cy="-16" rx="15" ry="9" transform="rotate(-25 -2 -16)" fill="#F8F4EC" fill-opacity="0.9" stroke="#C8B78F" stroke-width="1"></ellipse>
+<ellipse cx="9" cy="-15" rx="12" ry="7" transform="rotate(20 9 -15)" fill="#F8F4EC" fill-opacity="0.9" stroke="#C8B78F" stroke-width="1"></ellipse>
+<ellipse cx="2" cy="0" rx="20" ry="12.5" fill="#D2B97E"></ellipse>
+<path d="M-3,-12 Q1,0 -3,12 M7,-11 Q11,0 7,11" stroke="#263F2E" stroke-width="4" fill="none"></path>
+<path d="M21,-2 L28,0 L21,3Z" fill="#263F2E"></path>
+<circle cx="-19" cy="-1" r="9" fill="#263F2E"></circle>
+<path d="M-24,-8 Q-28,-18 -34,-20 M-20,-9 Q-21,-19 -26,-24" stroke="#263F2E" stroke-width="1.6" fill="none" stroke-linecap="round"></path>
+</g>
+</svg>
